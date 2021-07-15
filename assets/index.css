@@ -1,0 +1,145 @@
+body{
+    background-image: url(./img/3657969.png);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*header*/
+.lol{
+    background-color: #1f1f1f;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+margin: 20px;
+}
+h1{
+    margin-left:150px;
+    color: #1f1f1f;
+}
+
+#foto{
+width: 45%;
+}
+
+/* curriculum */
+#cvlink{
+    text-decoration: none;
+}
+
+#cv{
+    text-decoration: none;
+    margin-left: 45%;
+    background-color: #1f1f1f;
+    border: 2px solid white;
+    width: 100px;
+    
+}
+/* sobre mi */
+.sobremi{
+    background-color: #009c85;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    margin-top: 5%;
+    padding-top: 40px;
+    }
+#texto{
+    margin: 20;
+color: white;
+text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    background-color: #1f1f1f;
+    margin-left: 39%;
+    width: 20%;
+}
+
+/*skills*/
+h3{
+    color: white;
+    text-align: center;
+    background-color: #1f1f1f;
+    margin-left: 39%;
+    width: 20%;
+}
+.skills{
+    background-color: #009c85;
+    height: 400px;
+}
+
+.imagenes{
+    display: flexbox;
+    margin-left: 21%;
+    
+}
+
+.programas{
+
+    background-color: white;
+    width: 130px;
+    border: 2px solid black;
+    border-radius: 5%;
+}
+/*portfolio*/
+
+.portfolio{
+    background-color: #1f1f1f;
+}
+h4{
+    background-size: 10%;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    background-color: #1f1f1f;
+    margin-left: 39%;
+    width: 20%;
+}
+/*contacto*/
+.contacto{
+    padding-top: 5%;
+    background-color: #009c85;
+    margin-top: 50px;
+    padding-bottom: 5%;
+}
+
+.car{
+background-color: #1f1f1f;
+}
+
+/*card*/
+button{
+    text-decoration: none;
+    color: white;
+background-color: #1f1f1f;
+border-radius: 5%;
+width: 10%;
+}
+.row{
+width: 95%;
+margin-left: 3%;
+}
+
+/*footer*/
+footer{
+    background-color: #1f1f1f;
+    height: 50px;
+}
+h5{
+    color: white;
+}
+
+.btn{
+    background-color: #1f1f1f;
+    border: 2px solid white;
+}
+
